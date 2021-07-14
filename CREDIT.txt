@@ -2,6 +2,8 @@ Credit
 
 *** In the process of changing licenses and purchasing a commercial license via https://pixelarity.com/ ***
 *** Full details on renewed license and credit will be available once the website has been broadcasted ***
+*** This website is only public to obtain opinions from non-Github users of the lab. We do not give permission to distribute any information including source code prior to broadcast ***
+
 
 Template: aj@lkn.io | @ajlkn | HTML5UP
 Editing: elliottroberts@github.io
@@ -15,3 +17,4 @@ Additional Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Counter (freevisitorcounters.com)
