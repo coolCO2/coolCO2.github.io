@@ -1,0 +1,17 @@
+Credit
+
+*** In the process of changing licenses and purchasing a commercial license via https://pixelarity.com/ ***
+*** Full details on renewed license and credit will be available once the website has been broadcasted ***
+
+Template: aj@lkn.io | @ajlkn | HTML5UP
+Editing: elliottroberts@github.io
+
+Additional Credits:
+	Plain Images:
+		Unsplash (unsplash.com)
+	Icons:
+		Font Awesome (fontawesome.io)
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
