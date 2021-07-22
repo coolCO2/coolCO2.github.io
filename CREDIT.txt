@@ -1,16 +1,12 @@
 Credit
 
-*** In the process of changing licenses and purchasing a commercial license via https://pixelarity.com/ ***
-*** Full details on renewed license and credit will be available once the website has been broadcasted ***
-*** This website is only public to obtain opinions from non-Github users of the lab. We do not give permission to distribute any information including source code prior to broadcast ***
 
 
-Template: aj@lkn.io | @ajlkn | HTML5UP
+Template: aj@lkn.io | @ajlkn
+Template License: Pixelarity License Agreement
 Editing: elliottroberts@github.io
 
 Additional Credits:
-	Plain Images:
-		Unsplash (unsplash.com)
 	Icons:
 		Font Awesome (fontawesome.io)
 	Other:
