@@ -14,3 +14,7 @@ Additional Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 		Counter (freevisitorcounters.com)
+
+Images:
+researchgrant1.jpg -  Photo by Dan Dimmock on Unsplash
+researchgrant2.jpg -  Photo by Lukas Blazek on Unsplash
