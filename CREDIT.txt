@@ -14,7 +14,7 @@ Additional Credits:
     researchgrant1.jpg -  Photo by Dan Dimmock on Unsplash
     researchgrant2.jpg -  Photo by Lukas Blazek on Unsplash
     intern1.jpg        -  Photo by John Schnobrich on Unsplash
-    Rest of images from Dr. Elliott Roberts (site creator/maintainer) and from C.O.O.L. members - permission is needed to use these images
+    Rest of images are from C.O.O.L. members - permission is needed to use these images
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
