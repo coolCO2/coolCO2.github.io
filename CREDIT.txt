@@ -14,6 +14,9 @@ Additional Credits:
     researchgrant1.jpg -  Photo by Dan Dimmock on Unsplash
     researchgrant2.jpg -  Photo by Lukas Blazek on Unsplash
     intern1.jpg        -  Photo by John Schnobrich on Unsplash
+		intern2021.jpg     -  Photo by Chris Liverani on Unsplash
+		feely.jpg          -  Photo from NOAA/PMEL
+		rik.jpg            -  Photo from ICOS
     Rest of images are from C.O.O.L. members - permission is needed to use these images
 	Other:
 		jQuery (jquery.com)
