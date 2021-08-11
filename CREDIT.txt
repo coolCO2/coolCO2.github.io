@@ -17,6 +17,15 @@ Additional Credits:
 		intern2021.jpg     -  Photo by Chris Liverani on Unsplash
 		feely.jpg          -  Photo from NOAA/PMEL
 		rik.jpg            -  Photo from ICOS
+		lohrenz.jpg        -  Photo from Dartmouth Weekly
+		luther.jpg         -  Photo from University of Delaware's UDaily
+		maiti.jpg          -  Photo from LSU Research
+		mingli.jpg         -  Photo from University of Maryland, CES
+		rabalais.jpg       -  Photo from LSU Media Center
+		testa.jpg          -  Photo from Chesapeake Watershed Cooperative Ecosystem Studies Unit
+		yunli.jpg          -  Photo from University of Delaware
+		xiao-hai.jpg       -  Photo from University of Delaware's UDaily
+
     Rest of images are from C.O.O.L. members - permission is needed to use these images
 	Other:
 		jQuery (jquery.com)
